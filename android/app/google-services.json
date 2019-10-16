@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926289452652",
+    "firebase_url": "https://mountains-59815.firebaseio.com",
+    "project_id": "mountains-59815",
+    "storage_bucket": "mountains-59815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926289452652:android:821271da3137ab17",
+        "android_client_info": {
+          "package_name": "gr.idss.firebaseex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926289452652-15sd0tlk97g6bgk5t8druvmavggai3d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gr.idss.firebaseex",
+            "certificate_hash": "6ab96c951149dcb049b70cf85870a6408dc6e0d2"
+          }
+        },
+        {
+          "client_id": "926289452652-3m46190j3ifaemlo5hllspcnvnsg52i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtVec4KeW3s_lGfFOqvrfVlMHPqnEYI7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926289452652-3m46190j3ifaemlo5hllspcnvnsg52i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
